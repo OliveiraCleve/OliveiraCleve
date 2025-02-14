@@ -40,9 +40,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cleverson-de-oliveira-pereira-a794512ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  
+   <a href="https://discord.com/channels/1019994810804871342/@home" target="_blank"><img src="https://img.icons8.com/?size=100&id=LIJ9IxCSCvNw&format=png&color=000000" target="_blank"></a>
+   
+    <a href="https://www.linkedin.com/in/cleverson-de-oliveira-pereira-a794512ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+     <a href="https://www.linkedin.com/in/cleverson-de-oliveira-pereira-a794512ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 </div>
 
 ###
