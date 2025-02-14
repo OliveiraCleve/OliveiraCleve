@@ -55,16 +55,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=Cleverson%20de%20Oliveira&theme=dracula" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/OliveiraCleve/OliveiraCleve/output/snake.svg" alt="Snake animation" />
 
 ###
 
-###
