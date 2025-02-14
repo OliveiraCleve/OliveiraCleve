@@ -53,9 +53,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OliveiraCleve.OliveiraCleve&"  />
 </div>
 
-###
+![GitHub Snake](https://github.com/OliveiraCleve/OliveiraCleve/blob/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/OliveiraCleve/OliveiraCleve/output/snake.svg" alt="Snake animation" />
-
-###
 
