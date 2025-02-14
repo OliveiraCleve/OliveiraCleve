@@ -40,12 +40,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cleverson-de-oliveira-pereira-a794512ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
    <a href="https://discord.com/channels/1019994810804871342/@home" target="_blank"><img src="https://img.icons8.com/?size=100&id=LIJ9IxCSCvNw&format=png&color=000000" target="_blank"></a>
-   
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000"></a>
-    
-     <a href="https://www.linkedin.com/in/cleverson-de-oliveira-pereira-a794512ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
 
