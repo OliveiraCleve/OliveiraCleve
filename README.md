@@ -63,6 +63,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/OliveiraCleve/OliveiraCleve/output/snake.svg" alt="Snake animation" />
 
+###
 
 ###
